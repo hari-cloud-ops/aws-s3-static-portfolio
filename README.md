@@ -4,7 +4,7 @@
 A simple portfolio website hosted using Amazon S3 static website hosting.
 
 ## Live website
-[Open my portfolio](http://hari-cloud-portfolio-077376431681-ap-southeast-2-an.s3-website-ap-southeast-2.amazonaws.com)
+AWS deployment decommissioned; source code is available in this repository.
 
 ## Architecture
 Browser → Amazon S3 static website endpoint
